@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "ピースサイン - Peace Sign",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T04:25:51.526365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_ピースサイン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_ピースサイン_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_ピースサイン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_ピースサイン_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_ピースサイン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/09_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign（Instrumental）",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_ピースサイン_-_Peace_Sign(Instrumental)_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_ピースサイン_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/12_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ピースサイン - Peace Sign",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/13_ピースサイン_-_Peace_Sign_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ピースサイン (V字手势)",
+      "artist": "米津玄師 (よねづ けんし)",
+      "has_synced": true,
+      "path": "select/14_ピースサイン_(V字手势)_米津玄師_(よねづ_けんし).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/15_ピースサイン_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ピースサイン (Instrumental)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/16_ピースサイン_(Instrumental)_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_09_ピースサイン_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ピースサイン",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_10_ピースサイン_米津玄師.txt"
+    }
+  ]
+}
